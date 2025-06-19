@@ -5,7 +5,7 @@ import Home from "./pages/Home.jsx";
 
 function App() {
   return (
-    <div>
+    <div className="w-full h-screen">
       <BrowserRouter>
         <Header />
         <Routes>
